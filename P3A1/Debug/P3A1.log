@@ -1,0 +1,5 @@
+﻿  funktionen.cpp
+c:\users\kamer001\desktop\uni\programmieren\programmieren 2\p3\p3a1\funktionen.cpp(16): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+c:\users\kamer001\desktop\uni\programmieren\programmieren 2\p3\p3a1\funktionen.cpp(24): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  P3A1.vcxproj -> C:\Users\kamer001\Desktop\Uni\Programmieren\Programmieren 2\P3\P3A1\Debug\P3A1.exe
+  P3A1.vcxproj -> C:\Users\kamer001\Desktop\Uni\Programmieren\Programmieren 2\P3\P3A1\Debug\P3A1.pdb (Partial PDB)
